@@ -9,6 +9,7 @@ public class jenkins{
         System.out.println("All is done");
         System.out.println("working fine");
         System.out.println(new Date());
+        System.out.println("Jenkins is working its work");
         
     }
 }
