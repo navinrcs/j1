@@ -10,6 +10,9 @@ public class jenkins{
         System.out.println("working fine");
         System.out.println(new Date());
         System.out.println("Jenkins is working its work");
+        Student st = new Student();
+        st.sayhello();
+
         
     }
 }
